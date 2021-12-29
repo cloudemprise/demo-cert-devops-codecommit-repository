@@ -1,4 +1,4 @@
-# demo-cert-devops-codecommit-trigger-lambda
+# demo-cert-devops-codecommit-repository
 
 > AWS CodeCommit / GitHub Repository used for the Hands-On Demonstrations in connection with the AWS Certified DevOps Engineer Professional Exam Study course.
 
